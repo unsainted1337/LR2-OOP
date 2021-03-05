@@ -1,0 +1,4 @@
+com/example/lib/Point.java
+ com.example.lib.Point
+com/example/lib/Line.java
+ com.example.lib.Line
